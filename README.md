@@ -1,1 +1,1 @@
-Powershell script and C code written for Digispark, to change wallpaper of the intended machine.
+Powershell script to change wallpaper of a windows machine and C code is for automatically executing PowerShell scripts hosted on GitHub using Digispark.
